@@ -6,16 +6,21 @@ _Este repositorio te conduce a traves de los diferentes proyectos que realice du
 
 ### 🔍 Organizacion de Lenguajes y Compiladores 1
 
-[**Proyecto 1**](https://github.com/DouglasSochC/AnalizadorLexico)<br>
-[**Proyecto 2 - Frontend**](https://github.com/DouglasSochC/Editor_Cliente)<br>
-[**Proyecto 2 - Backend**](https://github.com/DouglasSochC/TraductorJS)<br>
+* [Proyecto 1](https://github.com/DouglasSochC/AnalizadorLexico)
+* [Proyecto 2 - Frontend](https://github.com/DouglasSochC/Editor_Cliente)
+* [Proyecto 2 - Backend](https://github.com/DouglasSochC/TraductorJS)
 
 ### 📑 Manejo e Implementacion de Archivos
 
-[**Proyecto 1**](https://github.com/DouglasSochC/Archivos_EV_2S2021/tree/main/Proyecto_1)<br>
-[**Practica 1**](https://github.com/DouglasSochC/Archivos_EV_2S2021/tree/main/Practica_1)<br>
-[**Proyecto 2**](https://github.com/DouglasSochC/MIA_Proyecto2)<br>
+* [Proyecto 1](https://github.com/DouglasSochC/Archivos_EV_2S2021/tree/main/Proyecto_1)
+* [Practica 1](https://github.com/DouglasSochC/Archivos_EV_2S2021/tree/main/Practica_1)
+* [Proyecto 2](https://github.com/DouglasSochC/MIA_Proyecto2)<br>
 
 ### Organizacion de Lenguajes y Compiladores 2
 ### Sistemas de Base de Datos 1
 ### Arquitectura de Computadores y Ensambladores 1
+
+### Seminario de Sistemas 1
+
+* [Proyecto 1](https://github.com/DouglasSochC/Semi1-Grupo2-Proyecto1)
+* [Proyecto 2](https://github.com/2730538920101/Semi1-Grupo2-Proyecto2)
